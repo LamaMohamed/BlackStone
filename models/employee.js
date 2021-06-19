@@ -9,11 +9,7 @@ let Employee = new Schema({
     position:{
       type:String
   },
-    plate:{
-    type:Date
-  },
-
-  age:{
+    age:{
       type:Number
   }
   
